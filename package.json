@@ -1,0 +1,20 @@
+{
+  "name": "Nodejs",
+  "version": "1.0.0",
+  "description": "Node JS MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MithunPradeeps/Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MithunPradeeps/Nodejs/issues"
+  },
+  "homepage": "https://github.com/MithunPradeeps/Nodejs#readme"
+}
